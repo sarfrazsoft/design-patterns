@@ -1,0 +1,19 @@
+Software design patterns are recurring solutions to common problems in software design and development. They provide a structured approach to solving particular design issues, making code more efficient, maintainable, and scalable. There are several design patterns categorized into three main groups:
+
+Creational Patterns: These patterns deal with object creation mechanisms, trying to create objects in a manner suitable to the situation. Common examples include Singleton, Factory, and Builder patterns.
+
+Structural Patterns: Structural patterns focus on the composition of classes or objects. They help create relationships between objects to form larger, more complex structures. Some examples are Adapter, Decorator, and Composite patterns.
+
+Behavioral Patterns: These patterns address communication between objects, the responsibility of objects, and how they interact. Patterns in this group include Observer, Strategy, and Command.
+
+There are more than seven design patterns; the examples above are just a few of the most commonly used ones. The choice of which design patterns a full-stack developer should know depends on their specific domain and project requirements. Here are a few that are valuable for a full-stack developer:
+
+Singleton Pattern: Useful for creating a single instance of a class, ensuring a single point of access to it.
+Factory Method Pattern: Helps with the creation of objects without specifying the exact class of object that will be created.
+Adapter Pattern: Allows the interface of an existing class to be used as another interface.
+Observer Pattern: Defines a one-to-many dependency between objects, so that when one object changes state, all its dependents are notified and updated automatically.
+MVC (Model-View-Controller): This is more of an architectural pattern. It separates an application into three interconnected components to separate the internal representation of information from the ways information is presented to and accepted from the user.
+Dependency Injection Pattern: It's essential for managing and injecting dependencies into classes or components, which is a common practice in modern software development.
+The choice of which patterns to know should be driven by the specific technologies and frameworks you work with and the nature of the applications you build. Being familiar with design patterns and knowing when to apply them can significantly enhance your skills as a full-stack developer, making your code more maintainable and efficient.
+
+https://learningdaily.dev/the-7-most-important-software-design-patterns-d60e546afb0e
