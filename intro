@@ -1,3 +1,7 @@
+SOLID: Abbreviation of Single responsibility principle, Open-closed principle, Liskov substitution principle, Interface segregation principle, and Dependency inversion principle. 
+SOLID is a mnemonic acronym for five design principles designed to make software designs more flexible, understandable, and maintainable.
+
+
 Software design patterns are recurring solutions to common problems in software design and development. They provide a structured approach to solving particular design issues, making code more efficient, maintainable, and scalable. There are several design patterns categorized into three main groups:
 
 Creational Patterns: These patterns deal with object creation mechanisms, trying to create objects in a manner suitable to the situation. Common examples include Singleton, Factory, and Builder patterns.
